@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanburns&label=Profile%20views&color=0e75b6&style=flat" alt="ryanburns" /> </p>
 
-- 🔭 I’m currently working on <a href="www.ryanburns.ie">my website</a>
+- 🔭 I’m currently working on <a href="www.ryanburns.ie">my website</a> www.ryanburns.ie
 
 - 🌱 I’m currently learning **CompTIA Security+**
 
