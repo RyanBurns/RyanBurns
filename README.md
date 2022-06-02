@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanburns&label=Profile%20views&color=0e75b6&style=flat" alt="ryanburns" /> </p>
 
-- 🔭 I’m currently working on <a href="www.ryanburns.ie">my website</a> www.ryanburns.ie
+- 🔭 I’m currently working on my website www.ryanburns.ie
 
 - 🌱 I’m currently learning **CompTIA Security+**
 
-- 📝 I regularly write articles on [ryanburnstech.wordpress.com](ryanburnstech.wordpress.com)
+- 📝 I regularly write articles on my technology and cybersecurity blog at ryanburnstech.wordpress.com
 
 - 📫 How to reach me **hi@ryandavidburns.com**
 
